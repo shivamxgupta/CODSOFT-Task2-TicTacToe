@@ -1,35 +1,28 @@
 # Tic-Tac-Toe AI
 
 ## Description
-This is a Tic-Tac-Toe game developed in Python as part of the CODSOFT Python Programming Internship.
 
-The game allows a human player to compete against an AI opponent. The AI uses the Minimax algorithm, making it an unbeatable opponent.
+This is a Tic-Tac-Toe game developed in Python. It allows a human player to play against an AI opponent. The AI uses the Minimax algorithm to make intelligent moves.
 
 ## Features
 
-- Human vs Computer
-- AI based on Minimax Algorithm
-- Winner detection
-- Draw detection
-- Simple command-line interface
+* Human vs AI gameplay
+* AI powered by the Minimax algorithm
+* Winner detection
+* Draw detection
+* Simple command-line interface
 
 ## Technologies Used
 
-- Python 3
+* Python
 
 ## How to Run
 
+1. Open the project folder.
+2. Run the following command:
+
 ```bash
 python tictactoe.py
-```
-
-## Project Structure
-
-```
-Task2_TicTacToe/
-│── tictactoe.py
-│── README.md
-│── screenshot.png
 ```
 
 ## Author
